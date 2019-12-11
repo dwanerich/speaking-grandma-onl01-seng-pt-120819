@@ -12,7 +12,7 @@ def speak_to_grandma(phrase)
 
 end
 
-speak_to_grandma("I LOVE YOU")
+speak_to_grandma("hey old lady")
 
 
 
